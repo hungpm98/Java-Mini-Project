@@ -1,0 +1,4 @@
+DHSamSung [ma= D01, nhanHieu= daikin, nhaSX= tong kho dieu hoa daikin viet nam, congSuat= 155, gia= 6000000.0, isInventer= true]
+DHSamSung [ma= D02, nhanHieu= daikinvip, nhaSX= tong kho dieu hoa daikin viet nam, congSuat= 255, gia= 6000000.0, isInventer= false]
+DHSamSung [ma= S01, nhanHieu= samsung, nhaSX= tong kho dieu hoa samsung viet nam, congSuat= 144, gia= 5000000.0, thangBaoHanh= 12]
+DHSamSung [ma= S02, nhanHieu= samsungvip, nhaSX= tong kho dieu hoa samsung viet nam, congSuat= 244, gia= 7000000.0, thangBaoHanh= 4]
